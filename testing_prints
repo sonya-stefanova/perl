@@ -1,0 +1,32 @@
+#!/usr/bin/perl
+
+# Goal: The Calculate_numbers subroutine aims to calculate the sum of positive and negative numbers in two resultative variables initially set to be 0;
+#
+# Params:
+#   @list_of_numbers: List of numbers to calculate the positive and the negative sums;
+#
+# Returns:
+#   ($sum_positive_nums, $sum_negative_nums): Returns a tuple of both resultative variables
+#
+
+  
+@list_of_numbers = (1, 2, 3, 4, 5);
+@list_of_strings = ("hell", "oppa", "here");
+$size = @list_of_numbers;
+$size_str= @list_of_strings;
+print "$size\n";
+print "$size_str\n";
+
+
+$_="Welcome SonYa! Hello Sonya! How are you Sonya";
+s/Sonya/Plamen/i;
+print "\n$_\n";
+
+$names = "Sonya Plamen Mihaela Teodor";
+@my_family_names = split(/ /, $names);
+foreach $name (@my_family_names){
+    print("$name, ");
+}
+@list_of_fruits = ("apple", "banana", "grapes");
+$string_fruits = join(", ", @list_of_fruits);
+print "\n$string_fruits\n"

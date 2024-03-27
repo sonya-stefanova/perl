@@ -1,0 +1,12 @@
+apple
+2
+bananas
+3
+cucumbers
+3.67
+tomatos
+4.5
+bread
+1
+pears
+3.4

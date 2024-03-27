@@ -1,0 +1,59 @@
+Conference,American Athletic
+Division,American Athletic East
+Teams,"South Florida","Connecticut","UCF","Cincinnati","Temple","East Carolina";
+Division,American Athletic West
+Teams,"Navy","SMU","Memphis","Houston","Tulsa","Tulane";
+
+Conference,ACC
+Division,ACC Atlantic
+Teams,"ACC Atlantic","Clemson","Louisville","Florida State","NC State","Wake Forest","Syracuse","Boston College";
+Division,ACC Coastal
+Teams,"ACC Coastal","Virginia Tech","North Carolina","Miami","Pittsburgh","Georgia Tech","Virginia","Duke";
+
+Conference,Big12
+Division,Big12
+Teams,"Big 12","Oklahoma","Oklahoma State","West Virginia","Kansas State","TCU","Texas","Texas Tech","Baylor","Iowas State","Kansas";
+
+Conference,Big10
+Division,Big10 East
+Teams,"Big 10 East","Penn State","Ohio State","Michigan","Indiana","Maryland","Michigan State","Rutgers";
+Division,Big10 West
+Teams,"Big 10 West","Wisconsin","Iowa","Nebraska","Minnesota","Northwestern","Illinois","Perdue";
+
+Conference,ConferenceUSA
+Division,ConferenceUSA East
+Teams,"Conference USA East","Western Kentucky","Old Dominion","Middle Tennessee","Florida Intl","Charlotte","Florida Atlantic","Marshall";
+Division,ConferenceUSA West
+Teams,"Conference USA West","Louisiana Tech","Texas San Antonio","Southern Mississippi","North Texas","Rice","UTEP";
+
+Conference,FBS Independents
+Division,FBS Independents
+Teams,"Army","BYU","Notre Dame","UMass";
+
+Conference,Mid-American
+Division,Mid-American East
+Teams,"Akron","Ohio","Kent State","Miami (OH)","Bowling Green","Buffalo";
+Division,Mid-American West
+Teams,"Central Michigan","Eastern Michigan","Toledo","Ball State","Northern Illinois","Western Michigan";
+
+Conference,Mountain West
+Division,Mountain
+Teams,"Colorado State","Air Force","Boise State","New Mexico","Utah State","Wyoming";
+Division,West
+Teams,"San Diego State","Hawaii","Fresno State","UNLV","San Jose' State","Nevada";
+
+Conference,Pac-12
+Division,Pac-12 North
+Teams,"California","Oregon","Washington","Washington State","Oregon State","Standford";
+Division,Pac-12 South
+Teams,"USC","UCLA","Utah","Arizona State","Arizona"
+
+Conference,SEC
+Division,SEC East
+Teams,"SEC East","Florida","Georgia","Kentucky","Missouri","South Carolina","Tennessee","Vanderbilt";
+Division,SEC West
+Teams,"SEC West","Alabama","Arkansas","Auburn","LSU","Mississippi State","Ole Miss","Texas A&M";
+
+Conference,Sun Belt Standings
+Division,Sun Belt
+Teams,"Coastal Carolina","Idaho","Appalachian State","Louisiana","Texas State","New Mexico State","Troy","Louisiana Monroe","Arkansas State","Georgia Southern","Georgia State","South Alabama";
